@@ -18,7 +18,7 @@ This is a Stock Price Prediction and Analysis dashboard which helps the user kno
 
 - **Python** for Programming and Model Training
 - **Alpha Vantage API** for latest stock market data
-- **Random Forest Regressor** for predicting next-dat movements
+- **Random Forest Regressor** for predicting next-day movements
 - **Streamlit** dashboard for generating portfolio analytics
 - **Google Sheets** API for storing generated analytics 
 
