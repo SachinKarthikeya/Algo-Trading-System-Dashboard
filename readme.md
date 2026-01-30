@@ -1,8 +1,8 @@
-## 📈 Algo-Trading System Dashboard - Introduction
+## 📈 Algo-Trading System Dashboard 
 
 This is a Stock Price Prediction and Analysis dashboard which helps the user know about the latest stock market conditions by generating portfolio analytics like **Last Trade Log** and **P&L Summary** and Buy/Sell signals  of a specific stock using Machine Learning automation by analyzing the latest stock market data. This benefits the user by signalling him the right time to buy and sell stocks, making more profits without any major risk.
 
-## Features
+## 📄 Workflow
 
 - Connects to Alpha Vantage, a Stock Data API for latest stock market data retrieval of three NIFTY 50 companies i.e., Reliance, Infosys and HDFC bank.
 - Analyzes the data using parameters like opening, closing, highest and lowest prices and volume of the stock.
@@ -14,7 +14,7 @@ This is a Stock Price Prediction and Analysis dashboard which helps the user kno
 - Generates portfolio analytics like Trade Log and P&L (Profit and Loss) Summary using Streamlit dashboard.
 - Stores Last Trade Log, P&L Summary and Win Ratio in Google Sheets for further analysis.
 
-## Technologies Used
+## 🧰 Tech Stack
 
 - **Python** for Programming and Model Training
 - **Alpha Vantage API** for latest stock market data
@@ -22,7 +22,7 @@ This is a Stock Price Prediction and Analysis dashboard which helps the user kno
 - **Streamlit** dashboard for generating portfolio analytics
 - **Google Sheets** API for storing generated analytics 
 
-## Future Enhancements
+## 📢 Future Enhancements
 
 - Visualizing Analytics using charts and graphs
 - Adding Telegram alert integration for signal alerts or error notifications.
