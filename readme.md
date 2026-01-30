@@ -1,4 +1,4 @@
-## 📈 Algo-Trading System Dashboard 
+## 📈 Stock-Trading Analyzer Dashboard 
 
 This is a Stock Price Prediction and Analysis dashboard which helps the user know about the latest stock market conditions by generating portfolio analytics like **Last Trade Log** and **P&L Summary** and Buy/Sell signals  of a specific stock using Machine Learning automation by analyzing the latest stock market data. This benefits the user by signalling him the right time to buy and sell stocks, making more profits without any major risk.
 
